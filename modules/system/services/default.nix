@@ -1,0 +1,6 @@
+{
+  imports = [
+    ./amnezia-vpn.nix
+  ];
+}
+
