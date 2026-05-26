@@ -16,8 +16,8 @@
     zsh.enable = true;
     vscode.enable = true;
     git = {
-      name = "nyrislam";
-      gamil = "nyrikesheihe@gmail.com"; 
+      name = "XXX";
+      gamil = "XXX@gmail.com"; 
     };
   };
   home.packages = with pkgs; [
